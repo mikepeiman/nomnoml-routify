@@ -1,0 +1,1 @@
+1. Sketch out the entirety of the project by hand, listing all components, actors, responsibilities and functions. You must know what each part of the process does, and what is responsible for doing it.
